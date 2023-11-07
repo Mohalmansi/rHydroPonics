@@ -13,9 +13,9 @@ void app_main(void)
     while (1)
     {
        gpio_set_level(GPIO_NUM_2,1);
-       vTaskDelay(100);
+       vTaskDelay(1000);
        gpio_set_level(GPIO_NUM_2,0);
-       vTaskDelay(100);
+       vTaskDelay(1000);
 
 
 
