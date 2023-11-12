@@ -607,3 +607,10 @@ C:/Espressif/frameworks/esp-idf-v5.1.1/workspace/Application/build/esp-idf/main/
 C:/Espressif/frameworks/esp-idf-v5.1.1/workspace/Application/build/esp-idf/main/CMakeFiles/install.dir
 C:/Espressif/frameworks/esp-idf-v5.1.1/workspace/Application/build/esp-idf/main/CMakeFiles/install/local.dir
 C:/Espressif/frameworks/esp-idf-v5.1.1/workspace/Application/build/esp-idf/main/CMakeFiles/install/strip.dir
+C:/Espressif/frameworks/esp-idf-v5.1.1/workspace/Application/build/esp-idf/pumps/CMakeFiles/__idf_pumps.dir
+C:/Espressif/frameworks/esp-idf-v5.1.1/workspace/Application/build/esp-idf/pumps/CMakeFiles/edit_cache.dir
+C:/Espressif/frameworks/esp-idf-v5.1.1/workspace/Application/build/esp-idf/pumps/CMakeFiles/rebuild_cache.dir
+C:/Espressif/frameworks/esp-idf-v5.1.1/workspace/Application/build/esp-idf/pumps/CMakeFiles/list_install_components.dir
+C:/Espressif/frameworks/esp-idf-v5.1.1/workspace/Application/build/esp-idf/pumps/CMakeFiles/install.dir
+C:/Espressif/frameworks/esp-idf-v5.1.1/workspace/Application/build/esp-idf/pumps/CMakeFiles/install/local.dir
+C:/Espressif/frameworks/esp-idf-v5.1.1/workspace/Application/build/esp-idf/pumps/CMakeFiles/install/strip.dir

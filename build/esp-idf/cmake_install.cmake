@@ -407,3 +407,8 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   include("C:/Espressif/frameworks/esp-idf-v5.1.1/workspace/Application/build/esp-idf/main/cmake_install.cmake")
 endif()
 
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("C:/Espressif/frameworks/esp-idf-v5.1.1/workspace/Application/build/esp-idf/pumps/cmake_install.cmake")
+endif()
+
